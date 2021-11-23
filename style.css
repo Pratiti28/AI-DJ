@@ -1,0 +1,43 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    color: azure;
+}
+
+.note{
+    font-size: 15px;
+    color: crimson;
+}
+
+.divdj{
+    float: left;
+}
+
+.disk{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.speed{
+    font-size: 15px;
+    margin: 15px;
+}
+
+.volume{
+    float: right;
+}
+
+body{
+background-size: cover;
+}
+
+.play{
+    font-size: 10px;
+    width: 100px;
+}
+
+canvas{
+border: lavenderblush 5px solid;
+border-radius: 20px;
+}
